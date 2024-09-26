@@ -5,7 +5,7 @@
     <title>Photography Portfolio</title>
     <style>
         body {
-            background-color: #3a4949; /* Set the background color of the body to white (for borders) */
+            background-color: #404141; /* Set the background color of the body to white (for borders) */
             color: #fff;
             font-family: Arial, sans-serif;
             margin: 0;
