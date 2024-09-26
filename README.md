@@ -6,7 +6,7 @@
     <style>
         body {
             background: url('Black and white misty tree.webp') no-repeat center;
-            background-size: contain; /* Keep the image's aspect ratio */
+            background-size: auto; /* Keep the image's aspect ratio */
             background-attachment: fixed; /* Keep the background image in place while scrolling */
             background-position: center center;
             color: #fff;
