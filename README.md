@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -35,6 +36,10 @@
             height: 200px;
             object-fit: cover;
         }
+        .caption {
+            text-align: center;
+            margin-top: 10px;
+        }
         .social-media a {
             color: #fff;
             text-decoration: none;
@@ -54,12 +59,22 @@
     <section id="my-work">
         <h2>My Work</h2>
         <div class="gallery">
-            <!-- Add your photo URLs below -->
-            <img src="photo1.jpg" alt="Photography 1">
-            <img src="photo2.jpg" alt="Photography 2">
-            <img src="photo3.jpg" alt="Photography 3">
-            <img src="photo4.jpg" alt="Photography 4">
-            <!-- Add more photos as needed -->
+            <div>
+                <a href="landscapes.html"><img src="photo1.jpg" alt="Landscapes"></a>
+                <div class="caption">Landscapes</div>
+            </div>
+            <div>
+                <a href="portraits.html"><img src="photo2.jpg" alt="Portraits"></a>
+                <div class="caption">Portraits</div>
+            </div>
+            <div>
+                <a href="flora.html"><img src="photo3.jpg" alt="Flora"></a>
+                <div class="caption">Flora</div>
+            </div>
+            <div>
+                <a href="wildlife.html"><img src="photo4.jpg" alt="Wildlife"></a>
+                <div class="caption">Wildlife</div>
+            </div>
         </div>
     </section>
 
@@ -71,20 +86,21 @@
     <section id="contact">
         <h2>Contact</h2>
         <p>If you are interested in working with me or have any questions, feel free to contact me at:</p>
-        <p>Email: <a href="jscholten@hotmail.ca" style="color: #fff;">jscholten@hotmail.ca</a></p>
-        <p>Phone: <a href="(604) 217-1751" style="color: #fff;">(604) 217-1751</a></p>
+        <p>Email: <a href="mailto:jscholten@hotmail.ca" style="color: #fff;">jscholten@hotmail.ca</a></p>
+        <p>Phone: <a href="tel:(604) 217-1751" style="color: #fff;">(604) 217-1751</a></p>
     </section>
 
     <section id="social-media">
         <h2>Follow Me</h2>
         <div class="social-media">
             <a href="https://www.instagram.com/yourprofile" target="_blank">Instagram</a> |
-            <a href="https://www.facebook.com/yourprofile" target="_blank">Facebook</a> |
+            <a href="https://www.facebook.com/yourprofile" target="_blank">Facebook</a>
         </div>
     </section>
 
     <footer>
-        <p>&copy; 2024 Your Name. All rights reserved.</p>
+        <p>&copy; 2024 Janet Scholten. All rights reserved.</p>
     </footer>
 </body>
 </html>
+
