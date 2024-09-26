@@ -5,7 +5,7 @@
     <title>Photography Portfolio</title>
     <style>
         body {
-            background: url('your-background-image.jpg') no-repeat center;
+            background: url('Black and white misty tree.webp') no-repeat center;
             background-size: contain; /* Keep the image's aspect ratio */
             background-attachment: fixed; /* Keep the background image in place while scrolling */
             background-position: center center;
