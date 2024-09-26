@@ -4,14 +4,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Photography Portfolio</title>
     <style>
-        body {
-            background: url('Black and white misty tree.webp') no-repeat center;
-            background-size: cover; /* Ensures the image covers the full background */
-            color: #fff;
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-        }
+     body {
+    background: url('') no-repeat center;
+    background-size: contain; /* Contain the image so it keeps its aspect ratio */
+    background-attachment: fixed; /* Keeps the image in place when scrolling */
+    background-position: center center;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
         #content {
             background-color: #000; /* Black main content */
             max-width: 1000px;
