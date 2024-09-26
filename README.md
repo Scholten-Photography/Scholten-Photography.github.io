@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -5,18 +6,20 @@
     <title>Photography Portfolio</title>
     <style>
         body {
-            background-color: #404141; /* Set the background color of the body to white (for borders) */
+            background: url('your-background-image.jpg') no-repeat center;
+            background-size: cover; /* Ensures the image covers the full background */
             color: #fff;
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
         }
         #content {
-            background-color: #000; /* Main content area with black background */
+            background-color: #000; /* Black main content */
             max-width: 1000px;
-            margin: 0 auto; /* Centers the content */
+            margin: 0 auto;
             padding: 50px;
             box-sizing: border-box;
+            min-height: 100vh; /* Ensure the content fills the height of the page */
         }
         header {
             text-align: center;
