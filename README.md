@@ -5,25 +5,20 @@
     <title>Photography Portfolio</title>
     <style>
         body {
-            background: url('Black-and-white-Trees-Landscapes.jpg') no-repeat center;
-            background-size: auto; /* Keep the image's aspect ratio */
-            background-attachment: fixed; /* Keep the background image in place while scrolling */
-            background-position: center center;
+            background: url('') no-repeat center;
+            background-size: cover; /* Ensures the image covers the full background */
             color: #fff;
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
         }
         #content {
-            background-color: #000; /* Black background for main content */
+            background-color: #000; /* Black main content */
             max-width: 1000px;
             margin: 0 auto;
             padding: 50px;
             box-sizing: border-box;
-            min-height: 100vh; /* Ensure the black section stretches from top to bottom */
-            display: flex;
-            flex-direction: column;
-            justify-content: space-between; /* Ensures content is evenly distributed */
+            min-height: 100vh; /* Ensure the content fills the height of the page */
         }
         header {
             text-align: center;
