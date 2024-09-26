@@ -48,7 +48,7 @@
 </head>
 <body>
     <header>
-        <h1>Your Photography Portfolio</h1>
+        <h1>Photography Portfolio</h1>
     </header>
 
     <section id="my-work">
