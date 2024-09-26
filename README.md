@@ -5,7 +5,7 @@
     <title>Photography Portfolio</title>
     <style>
         body {
-            background: url('Black-and-white-Trees-Landscapes.jpg') no-repeat center;
+            background: url('Black and white misty tree.webp') no-repeat center;
             background-size: cover; /* Ensures the image covers the full background */
             color: #fff;
             font-family: Arial, sans-serif;
