@@ -65,14 +65,14 @@
 
     <section id="about-me">
         <h2>About Me</h2>
-        <p>"Hi, I’m Janet Scholten, a photographer with a passion for capturing the beauty of nature and exploring new perspectives. Through my lens, I strive to highlight the unique moments and details that often go unnoticed. Whether it's a sweeping landscape or a simple portrait, my goal is to inspire others to see the world in fresh and exciting ways."</p>
+        <p>Hi, I’m Janet Scholten, a photographer with a passion for capturing the beauty of nature and exploring new perspectives. Through my lens, I strive to highlight the unique moments and details that often go unnoticed. Whether it's a sweeping landscape or a simple portrait, my goal is to inspire others to see the world in fresh and exciting ways.</p>
     </section>
 
     <section id="contact">
         <h2>Contact</h2>
         <p>If you are interested in working with me or have any questions, feel free to contact me at:</p>
         <p>Email: <a href="jscholten@hotmail.ca" style="color: #fff;">jscholten@hotmail.ca</a></p>
-        <p>Phone: <a href="(604)217-1751" style="color: #fff;">(604)217-1751</a></p>
+        <p>Phone: <a href="(604) 217-1751" style="color: #fff;">(604) 217-1751</a></p>
     </section>
 
     <section id="social-media">
