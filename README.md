@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -66,13 +65,14 @@
 
     <section id="about-me">
         <h2>About Me</h2>
-        <p>Hello! I am a passionate photographer based in Abbotsford, BC. I love capturing moments through my lens, whether it's landscapes, portraits, or abstract photography. My work reflects my unique perspective on the world, and I'm always exploring new ways to tell a story through images. Feel free to reach out if you'd like to collaborate or inquire about my work!</p>
+        <p>"Hi, I’m Janet Scholten, a photographer with a passion for capturing the beauty of nature and exploring new perspectives. Through my lens, I strive to highlight the unique moments and details that often go unnoticed. Whether it's a sweeping landscape or a simple portrait, my goal is to inspire others to see the world in fresh and exciting ways."</p>
     </section>
 
     <section id="contact">
         <h2>Contact</h2>
         <p>If you are interested in working with me or have any questions, feel free to contact me at:</p>
-        <p>Email: <a href="mailto:your-email@example.com" style="color: #fff;">your-email@example.com</a></p>
+        <p>Email: <a href="jscholten@hotmail.ca" style="color: #fff;">your-email@example.com</a></p>
+        <p>Phone: <a href="(604)217-1751" style="color: #fff;">your-email@example.com</a></p>
     </section>
 
     <section id="social-media">
@@ -80,7 +80,6 @@
         <div class="social-media">
             <a href="https://www.instagram.com/yourprofile" target="_blank">Instagram</a> |
             <a href="https://www.facebook.com/yourprofile" target="_blank">Facebook</a> |
-            <a href="https://twitter.com/yourprofile" target="_blank">Twitter</a>
         </div>
     </section>
 
