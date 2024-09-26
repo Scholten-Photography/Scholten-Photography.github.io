@@ -71,8 +71,8 @@
     <section id="contact">
         <h2>Contact</h2>
         <p>If you are interested in working with me or have any questions, feel free to contact me at:</p>
-        <p>Email: <a href="jscholten@hotmail.ca" style="color: #fff;">your-email@example.com</a></p>
-        <p>Phone: <a href="(604)217-1751" style="color: #fff;">your-email@example.com</a></p>
+        <p>Email: <a href="jscholten@hotmail.ca" style="color: #fff;">jscholten@hotmail.ca</a></p>
+        <p>Phone: <a href="(604)217-1751" style="color: #fff;">(604)217-1751</a></p>
     </section>
 
     <section id="social-media">
