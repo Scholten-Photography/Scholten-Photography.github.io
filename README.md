@@ -16,7 +16,7 @@
             padding: 0;
         }
         #content {
-            background-color: rgba(0, 0, 0, 0.8); /* Black with slight transparency */
+            background-color: rgba(0, 0, 0, 0.9); /* Black with slight transparency */
             max-width: 1000px;
             margin: 0 auto;
             padding: 30px; /* Adjusted padding for closer title positioning */
