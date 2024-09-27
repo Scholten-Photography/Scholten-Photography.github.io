@@ -74,7 +74,7 @@
             <h2>My Work</h2>
             <div class="gallery">
                 <div>
-                    <a href="landscapes.html"><img src="landscape-shot-of-green-mountains-below-foggy-sky.jpg" alt="Landscapes"></a>
+                    <a href="landscapes.html"><img src="cloud-wrapped-mountain.jpg" alt="Landscapes"></a>
                     <div class="caption">Landscapes</div>
                 </div>
                 <div>
