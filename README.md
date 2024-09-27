@@ -86,7 +86,7 @@
                     <div class="caption">Flora</div>
                 </div>
                 <div>
-                    <a href="wildlife.html"><img src="photo4.jpg" alt="Wildlife"></a>
+                    <a href="wildlife.html"><img src="flamingo-in-pond.jpg" alt="Wildlife"></a>
                     <div class="caption">Wildlife</div>
                 </div>
             </div>
