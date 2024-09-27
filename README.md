@@ -19,13 +19,13 @@
             background-color: #000; /* Black main content */
             max-width: 1000px;
             margin: 0 auto;
-            padding: 30px; /* Reduced padding for closer title positioning */
+            padding: 20px; /* Reduced padding for closer title positioning */
             box-sizing: border-box;
             min-height: 100vh; /* Ensure the content fills the height of the page */
         }
         header {
             text-align: center;
-            padding: 15px 0; /* Reduced padding */
+            padding: 20px 0; /* Reduced padding */
         }
         h1 {
             font-size: 3rem; /* Increased font size */
