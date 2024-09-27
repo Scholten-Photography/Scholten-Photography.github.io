@@ -16,10 +16,10 @@
             padding: 0;
         }
         #content {
-            background-color: rgba(0, 0, 0, 0.9); /* Black with slight transparency */
+            background-color: rgba(0, 0, 0, 0.8); /* Black with some transparency */
             max-width: 1000px;
             margin: 0 auto;
-            padding: 30px; /* Adjusted padding for closer title positioning */
+            padding: 30px; /* Adjusted padding */
             box-sizing: border-box;
             min-height: 100vh; /* Ensure the content fills the height of the page */
             border-radius: 10px; /* Rounded corners */
@@ -46,10 +46,19 @@
             justify-content: center;
             gap: 20px;
         }
+        .gallery div {
+            overflow: hidden; /* Prevents overflow on hover */
+            transition: transform 0.3s, opacity 0.3s; /* Transition for scaling and opacity */
+        }
         .gallery img {
             width: 300px;
             height: 200px;
             object-fit: cover;
+            transition: transform 0.3s, opacity 0.3s; /* Add transition here as well */
+        }
+        .gallery div:hover img {
+            transform: scale(1.05); /* Scale up the image */
+            opacity: 0.9; /* Slightly reduce opacity */
         }
         .caption {
             text-align: center;
