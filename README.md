@@ -3,15 +3,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Photography Portfolio</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet"> <!-- Your Google Fonts link -->
     <style>
         body {
             background: url('looking-up-at-trees.jpg') no-repeat center;
             background-size: cover; /* Ensures the image covers the full background */
             color: #fff;
-            font-family: Arial, sans-serif;
+            font-family: 'Playfair Display', serif; /* Changed to use the new font */
             margin: 0;
             padding: 0;
         }
