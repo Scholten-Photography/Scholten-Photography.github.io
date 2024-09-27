@@ -16,12 +16,14 @@
             padding: 0;
         }
         #content {
-            background-color: #000; /* Black main content */
+            background-color: rgba(0, 0, 0, 0.8); /* Black with slight transparency */
             max-width: 1000px;
             margin: 0 auto;
-            padding: 20px; /* Reduced padding for closer title positioning */
+            padding: 30px; /* Adjusted padding for closer title positioning */
             box-sizing: border-box;
             min-height: 100vh; /* Ensure the content fills the height of the page */
+            border-radius: 10px; /* Rounded corners */
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5); /* Shadow effect */
         }
         header {
             text-align: center;
