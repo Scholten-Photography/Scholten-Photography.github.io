@@ -4,15 +4,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Photography Portfolio</title>
     <style>
-    /* Hide the GitHub Pages auto-generated header */
-    body > header {
-        display: none;
-    }
-
-    /* Hide any horizontal lines (hr tags) if present */
-    body > hr {
-        display: none;
-    }
         body {
             background: url('looking-up-at-trees.jpg') no-repeat center;
             background-size: cover; /* Ensures the image covers the full background */
