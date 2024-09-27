@@ -25,7 +25,7 @@
         }
         header {
             text-align: center;
-            padding: 20px 0; /* Reduced padding */
+            padding: 15px 0; /* Reduced padding */
         }
         h1 {
             font-size: 3rem; /* Increased font size */
