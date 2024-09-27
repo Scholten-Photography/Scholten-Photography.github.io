@@ -74,7 +74,7 @@
             <h2>My Work</h2>
             <div class="gallery">
                 <div>
-                    <a href="landscapes.html"><img src="cloud-wrapped-mountain.jpg" alt="Landscapes"></a>
+                    <a href="landscapes.html"><img src="lake-in-the-mountains-at-dusk.jpg" alt="Landscapes"></a>
                     <div class="caption">Landscapes</div>
                 </div>
                 <div>
