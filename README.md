@@ -5,13 +5,13 @@
     <title>Photography Portfolio</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet"> <!-- Your Google Fonts link -->
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
     <style>
         body {
             background: url('looking-up-at-trees.jpg') no-repeat center;
             background-size: cover; /* Ensures the image covers the full background */
             color: #fff;
-            font-family: 'Playfair Display', serif; /* Changed to use the new font */
+            font-family: 'Playfair Display', serif; /* Using the new font */
             margin: 0;
             padding: 0;
         }
@@ -19,18 +19,22 @@
             background-color: #000; /* Black main content */
             max-width: 1000px;
             margin: 0 auto;
-            padding: 50px;
+            padding: 30px; /* Reduced padding for closer title positioning */
             box-sizing: border-box;
             min-height: 100vh; /* Ensure the content fills the height of the page */
         }
         header {
             text-align: center;
-            padding: 50px 0;
+            padding: 20px 0; /* Reduced padding */
+        }
+        h1 {
+            font-size: 3rem; /* Increased font size */
+            margin: 0; /* Remove default margin */
         }
         section {
             margin-bottom: 50px;
         }
-        h1, h2 {
+        h2 {
             text-align: center;
             color: #fff;
         }
