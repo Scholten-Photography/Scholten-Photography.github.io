@@ -78,7 +78,7 @@
                     <div class="caption">Landscapes</div>
                 </div>
                 <div>
-                    <a href="portraits.html"><img src="photo2.jpg" alt="Portraits"></a>
+                    <a href="portraits.html"><img src="woman-portrait-snowy-winter-day.jpg" alt="Portraits"></a>
                     <div class="caption">Portraits</div>
                 </div>
                 <div>
