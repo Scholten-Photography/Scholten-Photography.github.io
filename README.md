@@ -5,7 +5,7 @@
     <title>Photography Portfolio</title>
     <style>
         body {
-            background: url('') no-repeat center;
+            background: url('looking-up-at-trees.jpg') no-repeat center;
             background-size: cover; /* Ensures the image covers the full background */
             color: #fff;
             font-family: Arial, sans-serif;
