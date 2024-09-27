@@ -30,7 +30,7 @@
             padding: 20px 0; /* Reduced padding */
         }
         h1 {
-            font-size: 3rem; /* Increased font size */
+            font-size: 5rem; /* Increased font size */
             margin: 0; /* Remove default margin */
         }
         section {
