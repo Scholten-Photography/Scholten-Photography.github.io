@@ -93,7 +93,7 @@
                     <div class="caption">Portraits</div>
                 </div>
                 <div>
-                    <a href="flora.html"><img src="pretty-purple-flowers-against-a-woodland-backdrop.jpg" alt="Flora"></a>
+                    <a href="flora.html"><img src="_EJS4068.jpg" alt="Flora"></a>
                     <div class="caption">Flora</div>
                 </div>
                 <div>
