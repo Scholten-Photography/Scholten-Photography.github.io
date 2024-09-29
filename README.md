@@ -3,6 +3,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Photography Portfolio</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
     <style>
         body {
             background: url('looking-up-at-trees.jpg') no-repeat center;
@@ -82,19 +85,19 @@
             <h2>My Work</h2>
             <div class="gallery">
                 <div>
-                    <a href="landscapes.html"><img src="_DSC5915.jpg" alt="Landscapes"></a>
+                    <a href="landscapes.html"><img src="_DSC5915.jpg" alt="Landscape Photography"></a>
                     <div class="caption">Landscapes</div>
                 </div>
                 <div>
-                    <a href="portraits.html"><img src="_EJS2405.jpg" alt="Portraits"></a>
+                    <a href="portraits.html"><img src="_EJS2405.jpg" alt="Portrait Photography"></a>
                     <div class="caption">Portraits</div>
                 </div>
                 <div>
-                    <a href="flora.html"><img src="_EJS4068.jpg" alt="Flora"></a>
+                    <a href="flora.html"><img src="_EJS4068.jpg" alt="Flora Photography"></a>
                     <div class="caption">Flora</div>
                 </div>
                 <div>
-                    <a href="wildlife.html"><img src="_EJS2402.jpg" alt="Wildlife"></a>
+                    <a href="wildlife.html"><img src="_EJS2402.jpg" alt="Wildlife Photography"></a>
                     <div class="caption">Wildlife</div>
                 </div>
             </div>
@@ -108,7 +111,7 @@
         <section id="contact">
             <h2>Contact</h2>
             <p>If you are interested in working with me or have any questions, feel free to contact me at:</p>
-            <p>Email: <a href="mailto:jscholtenphotography@gmail.com" style="color: #fff;">jscholten@hotmail.ca</a></p>
+            <p>Email: <a href="mailto:jscholtenphotography@gmail.com" style="color: #fff;">jscholtenphotography@gmail.com</a></p>
             <p>Phone: <a href="tel:(604) 217-1751" style="color: #fff;">(604) 217-1751</a></p>
         </section>
 
